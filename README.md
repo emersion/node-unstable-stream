@@ -1,2 +1,2 @@
 # node-instable-stream
-A stream detecting instable behaviours
+A stream detecting unstable behaviours
