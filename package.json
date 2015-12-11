@@ -1,0 +1,29 @@
+{
+  "name": "unstable-stream",
+  "version": "0.1.0",
+  "description": " A stream detecting unstable behaviours",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersion/node-unstable-stream.git"
+  },
+  "keywords": [
+    "unstable",
+    "stream",
+    "analysis",
+    "stability",
+    "stable"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/node-unstable-stream/issues"
+  },
+  "homepage": "https://github.com/emersion/node-unstable-stream#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
