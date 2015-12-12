@@ -1,5 +1,7 @@
 # node-unstable-stream
 
+[![Build Status](https://travis-ci.org/emersion/node-unstable-stream.svg?branch=master)](https://travis-ci.org/emersion/node-unstable-stream)
+
 A stream detecting unstable behaviors.
 
 ```js
