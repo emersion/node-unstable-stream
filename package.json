@@ -1,7 +1,7 @@
 {
   "name": "unstable-stream",
   "version": "0.2.0",
-  "description": " A stream detecting unstable behaviours",
+  "description": " A stream detecting unstable behaviors",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
