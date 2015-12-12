@@ -1,4 +1,4 @@
-# node-instable-stream
+# node-unstable-stream
 
 A stream detecting unstable behaviors.
 
